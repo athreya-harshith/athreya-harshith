@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshith Athreya</h1>
-<h3 align="center">Navigating the Path to Becoming a Skilled Software Developer</h3>
+<h3 align="center">Navigating the Path to Become a Skilled Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athreya-harshith&label=Profile%20views&color=0e75b6&style=flat" alt="athreya-harshith" /> </p>
 
