@@ -18,7 +18,7 @@
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/athreya-harshith/count.svg?align=center)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athreya-harshith&show_icons=true&locale=en&layout=compact" alt="athreya-harshith" /></p>
 
